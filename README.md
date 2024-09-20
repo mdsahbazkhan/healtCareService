@@ -21,18 +21,18 @@ Make sure you have the following installed:
 - npm (comes with Node.js)
 # Installation
 1. ## Clone the repository:
- ```git clone https://github.com/mdsahbazkhan/healthService.git```
+  ```git clone https://github.com/mdsahbazkhan/healthService.git```
  
   ```cd healthService ```
 
  2. ## Install dependencies:
-  #### Run the following command to install all the necessary packages:
-```npm install```
+    #### Run the following command to install all the necessary packages:
+     ```npm install```
 # Running the Project
-#### To run the project locally:
+  #### To run the project locally:
 
 1. #### Start the development server:
-```npm run dev```
+ ```npm run dev```
 
 2. #### Open your browser and visit:
    
