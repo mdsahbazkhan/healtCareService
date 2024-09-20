@@ -22,6 +22,7 @@ Make sure you have the following installed:
 # Installation
 1. ## Clone the repository:
  ```git clone https://github.com/mdsahbazkhan/healthService.git```
+ 
   ```cd healthService ```
 
  2. ## Install dependencies:
