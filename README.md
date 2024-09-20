@@ -36,6 +36,8 @@ Make sure you have the following installed:
 2. #### Open your browser and visit:
    
 ```http://localhost:5173```
+## Live Demo
+You can view the live application at: [Health Service Live Demo](https://healthcareservice7.netlify.app/)
 
 # Building for Production
 
